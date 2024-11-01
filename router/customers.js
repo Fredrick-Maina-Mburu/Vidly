@@ -1,4 +1,3 @@
-const mongoose = require("mongoose");
 const express = require("express");
 const { Customer, validate } = require("../models/customer");
 const router = express.Router();
